@@ -1,0 +1,14 @@
+{
+  "name": "my-yt-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ytdowloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "npm:@distube/ytdl-core@^4.15.8"
+  }
+}
